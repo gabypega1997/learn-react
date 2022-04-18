@@ -4,6 +4,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+      {/* Acest header este cel care apare pe mijlocul paginii 
+          Poti sa adaugi tu ce vrei in div-ul acesta , header nu e necesar
+      */}
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>

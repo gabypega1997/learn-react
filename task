@@ -1,0 +1,29 @@
+ Descarci proiecutl :
+ 
+  // git clone "url de la proiect"
+
+Instalezi dependentele:
+
+  // npm install
+
+Dai drumul la server:
+
+  // npm start 
+    *Aceasta comanda o sa iti porneasca serverul in "localhost:3000"
+
+
+Pentru pull request (sa pui sus pentru a vedea ce ai facut):
+
+ 1.   // git checkout -b feature
+ 2.   // git status 
+ 3.   // git add .
+ 4.   // git commit -m "mesaj cu descriere despre ce ai pus sus"
+ 5.   // git push -u origin feature
+
+
+ Primul task este sa golesti pagina si sa schimbi titlul cu "Flo&Co Bau", atat la pagina (adica acolo sus) cat si pe pagina.
+ 
+ Mai las un hint pe ici colo!
+
+ Mult noroc!!
+
